@@ -1,0 +1,38 @@
+{
+  "name": "国家发展和改革委员会",
+  "base_url": "https://www.ndrc.gov.cn",
+  "sections": [
+    {
+      "name": "发展改革委令",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/",
+      "priority": 1,
+      "last_crawled": "2025-03-08 21:01:20"
+    },
+    {
+      "name": "规范性文件",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/",
+      "priority": 10,
+      "last_crawled": "2025-03-08 21:01:23"
+    },
+    {
+      "name": "规划文本",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/",
+      "priority": 3,
+      "last_crawled": "2025-03-08 21:01:27"
+    },
+    {
+      "name": "公告",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/gg/",
+      "priority": 4,
+      "last_crawled": "2025-03-08 21:01:29"
+    },
+    {
+      "name": "通知",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/",
+      "priority": 5,
+      "last_crawled": "2025-03-08 21:01:31"
+    }
+  ],
+  "last_crawled": "2025-03-08 21:01:31",
+  "crawl_frequency": "daily"
+}

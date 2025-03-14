@@ -1,0 +1,10 @@
+scrapy>=2.8.0
+pyyaml>=6.0
+python-dateutil>=2.8.2
+requests>=2.26.0
+watchdog>=2.1.9
+lxml>=4.9.2
+beautifulsoup4>=4.11.1
+pandas>=1.5.0
+schedule>=1.1.0
+# 移除hashlib，它是Python标准库

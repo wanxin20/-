@@ -1,0 +1,47 @@
+2025-03-08 20:43:17,235 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/
+2025-03-08 20:43:21,537 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/
+2025-03-08 20:43:25,844 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/
+2025-03-08 20:43:28,783 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/gg/
+2025-03-08 20:43:32,178 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/tz/
+2025-03-08 20:57:36,265 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/ (栏目: 发展改革委令)
+2025-03-08 20:58:44,797 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/ (栏目: 发展改革委令)
+2025-03-08 20:58:47,583 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/ (栏目: 规范性文件)
+2025-03-08 20:58:51,052 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/ (栏目: 规划文本)
+2025-03-08 20:58:55,140 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/gg/ (栏目: 公告)
+2025-03-08 20:58:58,276 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/tz/ (栏目: 通知)
+2025-03-08 21:01:16,291 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/ (栏目: 发展改革委令)
+2025-03-08 21:01:20,092 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/ (栏目: 规范性文件)
+2025-03-08 21:01:23,779 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/ (栏目: 规划文本)
+2025-03-08 21:01:27,234 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/gg/ (栏目: 公告)
+2025-03-08 21:01:29,423 - CrawlerEngine - INFO - 开始爬取URL: https://www.ndrc.gov.cn/xxgk/zcfb/tz/ (栏目: 通知)
+2025-03-11 11:06:50,809 - CrawlerEngine - INFO - 启动爬虫: wanxin_info_spider - https://wanxin20.github.io/ceshi/
+2025-03-11 11:06:50,819 - CrawlerEngine - ERROR - 执行爬虫任务失败: 'WanxinInfoSpider' object has no attribute 'start_requests'
+2025-03-11 11:18:06,932 - CrawlerEngine - INFO - 启动爬虫: wanxin_info_spider - https://wanxin20.github.io/ceshi/
+2025-03-11 11:18:06,945 - CrawlerEngine - ERROR - 执行爬虫任务失败: 'WanxinInfoSpider' object has no attribute 'start_requests'
+2025-03-11 11:37:00,970 - CrawlerEngine - INFO - 启动爬虫: wanxin_info_spider - https://wanxin20.github.io/ceshi/
+2025-03-12 15:00:51,130 - CrawlerEngine - INFO - 已获取解析好的数据: 杜-5
+2025-03-12 15:00:51,132 - CrawlerEngine - INFO - 已获取解析好的数据: 杜-4
+2025-03-12 15:00:51,132 - CrawlerEngine - INFO - 已获取解析好的数据: 杜-3
+2025-03-12 15:00:51,132 - CrawlerEngine - INFO - 已获取解析好的数据: 杜-2
+2025-03-12 15:00:51,133 - CrawlerEngine - INFO - 已获取解析好的数据: 杜-1
+2025-03-12 15:00:51,133 - CrawlerEngine - INFO - 已获取解析好的数据: 杜0
+2025-03-12 15:00:51,133 - CrawlerEngine - INFO - 已获取解析好的数据: 杜一
+2025-03-12 15:00:51,133 - CrawlerEngine - INFO - 已获取解析好的数据: 杜二
+2025-03-12 15:00:51,134 - CrawlerEngine - INFO - 已获取解析好的数据: 张三
+2025-03-12 15:00:51,134 - CrawlerEngine - INFO - 已获取解析好的数据: 李四
+2025-03-12 15:00:51,134 - CrawlerEngine - INFO - 已获取解析好的数据: 王五
+2025-03-12 15:00:51,135 - CrawlerEngine - INFO - 已获取解析好的数据: 赵六
+2025-03-12 15:00:51,135 - CrawlerEngine - INFO - 已获取解析好的数据: 孙七
+2025-03-12 15:10:23,086 - CrawlerEngine - INFO - 已获取解析好的数据: 杜-5
+2025-03-12 15:10:23,087 - CrawlerEngine - INFO - 已获取解析好的数据: 杜-4
+2025-03-12 15:10:23,087 - CrawlerEngine - INFO - 已获取解析好的数据: 杜-3
+2025-03-12 15:10:23,087 - CrawlerEngine - INFO - 已获取解析好的数据: 杜-2
+2025-03-12 15:10:23,087 - CrawlerEngine - INFO - 已获取解析好的数据: 杜-1
+2025-03-12 15:10:23,088 - CrawlerEngine - INFO - 已获取解析好的数据: 杜0
+2025-03-12 15:10:23,088 - CrawlerEngine - INFO - 已获取解析好的数据: 杜一
+2025-03-12 15:10:23,088 - CrawlerEngine - INFO - 已获取解析好的数据: 杜二
+2025-03-12 15:10:23,088 - CrawlerEngine - INFO - 已获取解析好的数据: 张三
+2025-03-12 15:10:23,089 - CrawlerEngine - INFO - 已获取解析好的数据: 李四
+2025-03-12 15:10:23,089 - CrawlerEngine - INFO - 已获取解析好的数据: 王五
+2025-03-12 15:10:23,089 - CrawlerEngine - INFO - 已获取解析好的数据: 赵六
+2025-03-12 15:10:23,089 - CrawlerEngine - INFO - 已获取解析好的数据: 孙七

@@ -1,0 +1,44 @@
+policy-spider/
+├── config/                     # 配置中心
+│   ├── __init__.py
+│   ├── settings.py            # 全局配置（请求头、路径等）
+│   └── spiders/               # 爬虫规则配置文件（YAML/JSON）
+│       ├── ndrc_gov.yaml      # 示例：发改委规则
+│       └── gov_cn.yaml        # 示例：中国政府网规则
+│
+├── core/                      # 核心逻辑
+│   ├── __init__.py
+│   ├── monitor.py             # 监测服务主入口
+│   ├── crawler.py             # 爬虫调度引擎
+│   ├── db_client.py           # 数据库/文件存储接口（统一抽象层）
+│   └── scheduler.py           # 任务调度器（定时/触发）
+│
+├── spiders/                   # 爬虫实现
+│   ├── __init__.py            # 爬虫注册入口
+│   ├── base_spider.py         # 爬虫基类（抽象接口）
+│   ├── ndrc_gov_spider.py     # 发改委爬虫（继承基类）
+│   └── gov_cn_spider.py       # 中国政府网爬虫
+│
+├── data/                      # 数据存储（本地版）
+│   ├── link_pool/             # 链接库（按网站分类）
+│   │   ├── ndrc_gov.json      # 示例：发改委链接库
+│   │   └── gov_cn.csv         # 其他格式兼容
+│   └── policy_data/           # 爬取内容库
+│       ├── ndrc_gov/
+│       │   └── 2023-10-05/    # 按日期归档
+│       └── gov_cn/
+│
+├── utils/                     # 工具包
+│   ├── logger.py              # 日志模块
+│   ├── validator.py           # 网页结构验证器
+│   └── anti_spider.py         # 反爬策略（代理/User-Agent池）
+│
+├── tests/                     # 测试模块
+│   ├── test_spiders.py        # 爬虫单元测试
+│   └── test_monitor.py        # 监测逻辑测试
+│
+├── docs/                      # 文档
+│   └── spider_rules.md        # 爬虫规则编写规范
+│
+├── requirements.txt           # 依赖库列表
+└── run_monitor.py             # 监测服务启动入口

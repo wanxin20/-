@@ -1,0 +1,484 @@
+2025-03-09 17:17:50,456 - WanxinInfoSpider - INFO - 正在解析人员列表页: https://wanxin20.github.io/ceshi/
+2025-03-09 17:17:50,458 - WanxinInfoSpider - INFO - 找到 5 条人员信息
+2025-03-09 17:19:07,625 - WanxinInfoSpider - INFO - 正在解析人员列表页: https://wanxin20.github.io/ceshi/
+2025-03-09 17:19:07,626 - WanxinInfoSpider - INFO - 找到 5 条人员信息
+2025-03-09 17:19:07,738 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-09 17:19:07,740 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-09 17:20:30,909 - WanxinInfoSpider - INFO - 正在解析人员列表页: https://wanxin20.github.io/ceshi/
+2025-03-09 17:20:30,913 - WanxinInfoSpider - INFO - 找到 5 条人员信息
+2025-03-09 17:20:31,029 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-09 17:20:31,031 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-09 17:20:31,031 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,036 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\张三_技术部.json
+2025-03-09 17:20:31,037 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-09 17:20:31,037 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,039 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\李四_市场部.json
+2025-03-09 17:20:31,040 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-09 17:20:31,040 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,043 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\王五_人事部.json
+2025-03-09 17:20:31,044 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-09 17:20:31,044 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,046 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\赵六_行政部.json
+2025-03-09 17:20:31,047 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-09 17:20:31,047 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,049 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\孙七_销售部.json
+2025-03-09 17:20:31,168 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-09 17:20:31,170 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-09 17:20:31,171 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,172 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\张三_技术部.json
+2025-03-09 17:20:31,174 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-09 17:20:31,174 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,176 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\李四_市场部.json
+2025-03-09 17:20:31,177 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-09 17:20:31,177 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,179 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\王五_人事部.json
+2025-03-09 17:20:31,180 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-09 17:20:31,180 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,182 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\赵六_行政部.json
+2025-03-09 17:20:31,183 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-09 17:20:31,183 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,186 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\孙七_销售部.json
+2025-03-09 17:20:31,299 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-09 17:20:31,301 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-09 17:20:31,301 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,303 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\张三_技术部.json
+2025-03-09 17:20:31,304 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-09 17:20:31,304 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,308 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\李四_市场部.json
+2025-03-09 17:20:31,309 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-09 17:20:31,309 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,311 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\王五_人事部.json
+2025-03-09 17:20:31,313 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-09 17:20:31,314 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,316 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\赵六_行政部.json
+2025-03-09 17:20:31,317 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-09 17:20:31,318 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,320 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\孙七_销售部.json
+2025-03-09 17:20:31,437 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-09 17:20:31,439 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-09 17:20:31,439 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,441 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\张三_技术部.json
+2025-03-09 17:20:31,442 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-09 17:20:31,442 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,444 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\李四_市场部.json
+2025-03-09 17:20:31,445 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-09 17:20:31,445 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,448 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\王五_人事部.json
+2025-03-09 17:20:31,449 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-09 17:20:31,449 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,451 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\赵六_行政部.json
+2025-03-09 17:20:31,452 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-09 17:20:31,453 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:31,455 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\孙七_销售部.json
+2025-03-09 17:20:32,016 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-09 17:20:32,018 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-09 17:20:32,019 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:32,020 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\张三_技术部.json
+2025-03-09 17:20:32,022 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-09 17:20:32,022 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:32,024 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\李四_市场部.json
+2025-03-09 17:20:32,025 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-09 17:20:32,025 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:32,027 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\王五_人事部.json
+2025-03-09 17:20:32,028 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-09 17:20:32,028 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:32,031 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\赵六_行政部.json
+2025-03-09 17:20:32,032 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-09 17:20:32,032 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-09 17:20:32,035 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-09\孙七_销售部.json
+2025-03-10 22:12:01,681 - WanxinInfoSpider - INFO - 正在解析人员列表页: https://wanxin20.github.io/ceshi/
+2025-03-10 22:12:01,691 - WanxinInfoSpider - INFO - 找到 9 条人员信息
+2025-03-10 22:12:01,764 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-10 22:12:01,766 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜-1 - 副部长 - 技术部
+2025-03-10 22:12:01,766 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,768 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜-1_技术部.json
+2025-03-10 22:12:01,769 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜0 - 部长 - 技术部
+2025-03-10 22:12:01,769 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,771 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜0_技术部.json
+2025-03-10 22:12:01,772 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜一 - 主管 - 技术部
+2025-03-10 22:12:01,773 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,775 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜一_技术部.json
+2025-03-10 22:12:01,776 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜二 - 员工 - 技术部
+2025-03-10 22:12:01,777 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,778 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜二_技术部.json
+2025-03-10 22:12:01,779 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-10 22:12:01,780 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,782 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\张三_技术部.json
+2025-03-10 22:12:01,783 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-10 22:12:01,783 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,785 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\李四_市场部.json
+2025-03-10 22:12:01,786 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-10 22:12:01,787 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,788 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\王五_人事部.json
+2025-03-10 22:12:01,790 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-10 22:12:01,790 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,791 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\赵六_行政部.json
+2025-03-10 22:12:01,792 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-10 22:12:01,792 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,794 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\孙七_销售部.json
+2025-03-10 22:12:01,864 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-10 22:12:01,866 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜-1 - 副部长 - 技术部
+2025-03-10 22:12:01,866 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,869 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜-1_技术部.json
+2025-03-10 22:12:01,870 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜0 - 部长 - 技术部
+2025-03-10 22:12:01,870 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,872 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜0_技术部.json
+2025-03-10 22:12:01,873 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜一 - 主管 - 技术部
+2025-03-10 22:12:01,873 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,875 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜一_技术部.json
+2025-03-10 22:12:01,875 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜二 - 员工 - 技术部
+2025-03-10 22:12:01,876 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,877 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜二_技术部.json
+2025-03-10 22:12:01,878 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-10 22:12:01,878 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,880 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\张三_技术部.json
+2025-03-10 22:12:01,881 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-10 22:12:01,881 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,882 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\李四_市场部.json
+2025-03-10 22:12:01,883 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-10 22:12:01,884 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,886 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\王五_人事部.json
+2025-03-10 22:12:01,887 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-10 22:12:01,887 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,889 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\赵六_行政部.json
+2025-03-10 22:12:01,889 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-10 22:12:01,890 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,892 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\孙七_销售部.json
+2025-03-10 22:12:01,961 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-10 22:12:01,964 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜-1 - 副部长 - 技术部
+2025-03-10 22:12:01,965 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,966 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜-1_技术部.json
+2025-03-10 22:12:01,967 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜0 - 部长 - 技术部
+2025-03-10 22:12:01,968 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,970 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜0_技术部.json
+2025-03-10 22:12:01,971 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜一 - 主管 - 技术部
+2025-03-10 22:12:01,972 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,974 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜一_技术部.json
+2025-03-10 22:12:01,975 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜二 - 员工 - 技术部
+2025-03-10 22:12:01,975 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,977 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜二_技术部.json
+2025-03-10 22:12:01,979 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-10 22:12:01,979 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,981 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\张三_技术部.json
+2025-03-10 22:12:01,982 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-10 22:12:01,983 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,984 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\李四_市场部.json
+2025-03-10 22:12:01,985 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-10 22:12:01,986 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,987 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\王五_人事部.json
+2025-03-10 22:12:01,989 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-10 22:12:01,989 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,992 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\赵六_行政部.json
+2025-03-10 22:12:01,993 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-10 22:12:01,993 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:01,995 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\孙七_销售部.json
+2025-03-10 22:12:02,069 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-10 22:12:02,072 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜-1 - 副部长 - 技术部
+2025-03-10 22:12:02,072 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,074 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜-1_技术部.json
+2025-03-10 22:12:02,075 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜0 - 部长 - 技术部
+2025-03-10 22:12:02,075 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,076 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜0_技术部.json
+2025-03-10 22:12:02,077 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜一 - 主管 - 技术部
+2025-03-10 22:12:02,077 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,078 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜一_技术部.json
+2025-03-10 22:12:02,079 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜二 - 员工 - 技术部
+2025-03-10 22:12:02,081 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,082 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜二_技术部.json
+2025-03-10 22:12:02,082 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-10 22:12:02,082 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,086 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\张三_技术部.json
+2025-03-10 22:12:02,087 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-10 22:12:02,087 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,089 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\李四_市场部.json
+2025-03-10 22:12:02,090 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-10 22:12:02,090 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,093 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\王五_人事部.json
+2025-03-10 22:12:02,094 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-10 22:12:02,094 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,096 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\赵六_行政部.json
+2025-03-10 22:12:02,097 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-10 22:12:02,098 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,099 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\孙七_销售部.json
+2025-03-10 22:12:02,173 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-10 22:12:02,175 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜-1 - 副部长 - 技术部
+2025-03-10 22:12:02,175 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,177 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜-1_技术部.json
+2025-03-10 22:12:02,178 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜0 - 部长 - 技术部
+2025-03-10 22:12:02,179 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,180 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜0_技术部.json
+2025-03-10 22:12:02,181 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜一 - 主管 - 技术部
+2025-03-10 22:12:02,181 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,183 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜一_技术部.json
+2025-03-10 22:12:02,184 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜二 - 员工 - 技术部
+2025-03-10 22:12:02,184 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,186 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜二_技术部.json
+2025-03-10 22:12:02,187 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-10 22:12:02,187 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,189 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\张三_技术部.json
+2025-03-10 22:12:02,190 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-10 22:12:02,190 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,192 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\李四_市场部.json
+2025-03-10 22:12:02,192 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-10 22:12:02,192 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,195 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\王五_人事部.json
+2025-03-10 22:12:02,195 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-10 22:12:02,196 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,198 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\赵六_行政部.json
+2025-03-10 22:12:02,199 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-10 22:12:02,199 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,201 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\孙七_销售部.json
+2025-03-10 22:12:02,270 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-10 22:12:02,272 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜-1 - 副部长 - 技术部
+2025-03-10 22:12:02,272 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,274 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜-1_技术部.json
+2025-03-10 22:12:02,275 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜0 - 部长 - 技术部
+2025-03-10 22:12:02,275 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,277 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜0_技术部.json
+2025-03-10 22:12:02,278 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜一 - 主管 - 技术部
+2025-03-10 22:12:02,278 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,281 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜一_技术部.json
+2025-03-10 22:12:02,281 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜二 - 员工 - 技术部
+2025-03-10 22:12:02,282 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,283 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜二_技术部.json
+2025-03-10 22:12:02,284 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-10 22:12:02,284 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,285 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\张三_技术部.json
+2025-03-10 22:12:02,286 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-10 22:12:02,286 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,288 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\李四_市场部.json
+2025-03-10 22:12:02,289 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-10 22:12:02,289 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,291 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\王五_人事部.json
+2025-03-10 22:12:02,291 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-10 22:12:02,291 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,293 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\赵六_行政部.json
+2025-03-10 22:12:02,294 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-10 22:12:02,294 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,296 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\孙七_销售部.json
+2025-03-10 22:12:02,363 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-10 22:12:02,365 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜-1 - 副部长 - 技术部
+2025-03-10 22:12:02,365 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,368 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜-1_技术部.json
+2025-03-10 22:12:02,369 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜0 - 部长 - 技术部
+2025-03-10 22:12:02,369 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,371 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜0_技术部.json
+2025-03-10 22:12:02,372 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜一 - 主管 - 技术部
+2025-03-10 22:12:02,373 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,374 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜一_技术部.json
+2025-03-10 22:12:02,375 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜二 - 员工 - 技术部
+2025-03-10 22:12:02,375 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,377 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜二_技术部.json
+2025-03-10 22:12:02,378 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-10 22:12:02,378 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,380 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\张三_技术部.json
+2025-03-10 22:12:02,380 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-10 22:12:02,381 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,383 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\李四_市场部.json
+2025-03-10 22:12:02,383 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-10 22:12:02,383 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,385 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\王五_人事部.json
+2025-03-10 22:12:02,385 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-10 22:12:02,387 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,388 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\赵六_行政部.json
+2025-03-10 22:12:02,389 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-10 22:12:02,390 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,391 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\孙七_销售部.json
+2025-03-10 22:12:02,459 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-10 22:12:02,462 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜-1 - 副部长 - 技术部
+2025-03-10 22:12:02,462 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,466 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜-1_技术部.json
+2025-03-10 22:12:02,467 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜0 - 部长 - 技术部
+2025-03-10 22:12:02,468 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,470 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜0_技术部.json
+2025-03-10 22:12:02,471 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜一 - 主管 - 技术部
+2025-03-10 22:12:02,471 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,474 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜一_技术部.json
+2025-03-10 22:12:02,476 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜二 - 员工 - 技术部
+2025-03-10 22:12:02,477 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,479 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜二_技术部.json
+2025-03-10 22:12:02,481 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-10 22:12:02,481 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,483 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\张三_技术部.json
+2025-03-10 22:12:02,485 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-10 22:12:02,485 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,487 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\李四_市场部.json
+2025-03-10 22:12:02,488 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-10 22:12:02,489 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,491 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\王五_人事部.json
+2025-03-10 22:12:02,491 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-10 22:12:02,492 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,493 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\赵六_行政部.json
+2025-03-10 22:12:02,494 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-10 22:12:02,494 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,497 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\孙七_销售部.json
+2025-03-10 22:12:02,567 - WanxinInfoSpider - WARNING - Response没有meta属性，尝试直接从页面提取人员信息
+2025-03-10 22:12:02,569 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜-1 - 副部长 - 技术部
+2025-03-10 22:12:02,570 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,571 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜-1_技术部.json
+2025-03-10 22:12:02,572 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜0 - 部长 - 技术部
+2025-03-10 22:12:02,572 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,575 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜0_技术部.json
+2025-03-10 22:12:02,576 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜一 - 主管 - 技术部
+2025-03-10 22:12:02,576 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,577 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜一_技术部.json
+2025-03-10 22:12:02,578 - WanxinInfoSpider - INFO - 成功解析人员信息: 杜二 - 员工 - 技术部
+2025-03-10 22:12:02,578 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,579 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\杜二_技术部.json
+2025-03-10 22:12:02,580 - WanxinInfoSpider - INFO - 成功解析人员信息: 张三 - 员工 - 技术部
+2025-03-10 22:12:02,580 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,583 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\张三_技术部.json
+2025-03-10 22:12:02,583 - WanxinInfoSpider - INFO - 成功解析人员信息: 李四 - 经理 - 市场部
+2025-03-10 22:12:02,583 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,586 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\李四_市场部.json
+2025-03-10 22:12:02,587 - WanxinInfoSpider - INFO - 成功解析人员信息: 王五 - 主管 - 人事部
+2025-03-10 22:12:02,587 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,589 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\王五_人事部.json
+2025-03-10 22:12:02,589 - WanxinInfoSpider - INFO - 成功解析人员信息: 赵六 - 助理 - 行政部
+2025-03-10 22:12:02,589 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,591 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\赵六_行政部.json
+2025-03-10 22:12:02,592 - WanxinInfoSpider - INFO - 成功解析人员信息: 孙七 - 总监 - 销售部
+2025-03-10 22:12:02,592 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-10 22:12:02,594 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-10\孙七_销售部.json
+2025-03-11 11:37:00,980 - WanxinInfoSpider - INFO - 开始爬取万信人员信息
+2025-03-11 11:37:00,981 - WanxinInfoSpider - INFO - 爬取URL: https://wanxin20.github.io/ceshi/
+2025-03-11 11:37:01,322 - WanxinInfoSpider - INFO - 正在解析人员列表页: https://wanxin20.github.io/ceshi/
+2025-03-11 11:37:01,327 - WanxinInfoSpider - INFO - 找到 13 条人员信息
+2025-03-11 11:37:01,336 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,339 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\杜-5_技术部.json
+2025-03-11 11:37:01,339 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,341 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\杜-4_技术部.json
+2025-03-11 11:37:01,342 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,344 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\杜-3_技术部.json
+2025-03-11 11:37:01,344 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,347 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\杜-2_技术部.json
+2025-03-11 11:37:01,347 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,349 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\杜-1_技术部.json
+2025-03-11 11:37:01,349 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,351 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\杜0_技术部.json
+2025-03-11 11:37:01,351 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,354 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\杜一_技术部.json
+2025-03-11 11:37:01,354 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,356 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\杜二_技术部.json
+2025-03-11 11:37:01,357 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,359 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\张三_技术部.json
+2025-03-11 11:37:01,359 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,362 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\李四_市场部.json
+2025-03-11 11:37:01,362 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,364 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\王五_人事部.json
+2025-03-11 11:37:01,364 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,366 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\赵六_行政部.json
+2025-03-11 11:37:01,367 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-11 11:37:01,368 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-11\孙七_销售部.json
+2025-03-12 14:27:25,361 - WanxinInfoSpider - INFO - 正在解析人员列表页: https://wanxin20.github.io/ceshi/
+2025-03-12 14:27:25,374 - WanxinInfoSpider - INFO - 找到 13 条人员信息
+2025-03-12 14:27:25,380 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,382 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-5_技术部.json
+2025-03-12 14:27:25,383 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,385 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-4_技术部.json
+2025-03-12 14:27:25,385 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,387 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-3_技术部.json
+2025-03-12 14:27:25,388 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,390 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-2_技术部.json
+2025-03-12 14:27:25,390 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,394 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-1_技术部.json
+2025-03-12 14:27:25,394 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,396 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜0_技术部.json
+2025-03-12 14:27:25,397 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,400 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜一_技术部.json
+2025-03-12 14:27:25,400 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,403 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜二_技术部.json
+2025-03-12 14:27:25,403 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,406 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\张三_技术部.json
+2025-03-12 14:27:25,407 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,409 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\李四_市场部.json
+2025-03-12 14:27:25,409 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,411 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\王五_人事部.json
+2025-03-12 14:27:25,412 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,413 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\赵六_行政部.json
+2025-03-12 14:27:25,414 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:27:25,416 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\孙七_销售部.json
+2025-03-12 14:53:42,870 - WanxinInfoSpider - INFO - 正在解析人员列表页: https://wanxin20.github.io/ceshi/
+2025-03-12 14:53:42,872 - WanxinInfoSpider - INFO - 找到 13 条人员信息
+2025-03-12 14:53:42,877 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,878 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-5_技术部.json
+2025-03-12 14:53:42,879 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,881 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-4_技术部.json
+2025-03-12 14:53:42,881 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,884 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-3_技术部.json
+2025-03-12 14:53:42,884 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,886 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-2_技术部.json
+2025-03-12 14:53:42,886 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,889 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-1_技术部.json
+2025-03-12 14:53:42,889 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,891 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜0_技术部.json
+2025-03-12 14:53:42,891 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,893 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜一_技术部.json
+2025-03-12 14:53:42,894 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,896 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜二_技术部.json
+2025-03-12 14:53:42,897 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,898 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\张三_技术部.json
+2025-03-12 14:53:42,899 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,901 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\李四_市场部.json
+2025-03-12 14:53:42,901 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,903 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\王五_人事部.json
+2025-03-12 14:53:42,903 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,905 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\赵六_行政部.json
+2025-03-12 14:53:42,906 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 14:53:42,908 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\孙七_销售部.json
+2025-03-12 15:00:51,086 - WanxinInfoSpider - INFO - 正在解析人员列表页: https://wanxin20.github.io/ceshi/
+2025-03-12 15:00:51,088 - WanxinInfoSpider - INFO - 找到 13 条人员信息
+2025-03-12 15:00:51,094 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,097 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-5_技术部.json
+2025-03-12 15:00:51,097 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,099 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-4_技术部.json
+2025-03-12 15:00:51,100 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,101 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-3_技术部.json
+2025-03-12 15:00:51,102 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,103 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-2_技术部.json
+2025-03-12 15:00:51,104 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,106 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-1_技术部.json
+2025-03-12 15:00:51,107 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,109 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜0_技术部.json
+2025-03-12 15:00:51,109 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,111 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜一_技术部.json
+2025-03-12 15:00:51,111 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,112 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜二_技术部.json
+2025-03-12 15:00:51,114 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,116 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\张三_技术部.json
+2025-03-12 15:00:51,117 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,119 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\李四_市场部.json
+2025-03-12 15:00:51,119 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,122 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\王五_人事部.json
+2025-03-12 15:00:51,123 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,127 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\赵六_行政部.json
+2025-03-12 15:00:51,128 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:00:51,129 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\孙七_销售部.json
+2025-03-12 15:10:23,050 - WanxinInfoSpider - INFO - 正在解析人员列表页: https://wanxin20.github.io/ceshi/
+2025-03-12 15:10:23,052 - WanxinInfoSpider - INFO - 找到 13 条人员信息
+2025-03-12 15:10:23,056 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,060 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-5_技术部.json
+2025-03-12 15:10:23,060 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,062 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-4_技术部.json
+2025-03-12 15:10:23,062 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,064 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-3_技术部.json
+2025-03-12 15:10:23,064 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,066 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-2_技术部.json
+2025-03-12 15:10:23,066 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,068 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜-1_技术部.json
+2025-03-12 15:10:23,068 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,070 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜0_技术部.json
+2025-03-12 15:10:23,070 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,072 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜一_技术部.json
+2025-03-12 15:10:23,073 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,075 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\杜二_技术部.json
+2025-03-12 15:10:23,075 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,077 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\张三_技术部.json
+2025-03-12 15:10:23,077 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,079 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\李四_市场部.json
+2025-03-12 15:10:23,079 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,081 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\王五_人事部.json
+2025-03-12 15:10:23,082 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,083 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\赵六_行政部.json
+2025-03-12 15:10:23,084 - WanxinInfoSpider - WARNING - 数据库客户端没有合适的保存方法，仅保存到文件
+2025-03-12 15:10:23,086 - WanxinInfoSpider - INFO - 已保存人员数据到文件: data\policy_data\wanxin_info\2025-03-12\孙七_销售部.json

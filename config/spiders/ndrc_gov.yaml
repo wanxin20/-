@@ -1,0 +1,9 @@
+name: ndrc_gov_spider
+allowed_domains: ["ndrc.gov.cn"]
+start_urls: ["https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/"]
+list_rules:
+  policy_links: '//ul[contains(@class,"u-list")]/li/a/@href'
+  next_page: '//a[@class="next-page"]/@href'
+detail_rules:
+  title: '//meta[@name="ArticleTitle"]/@content'  # 优先使用meta标签
+  content: '//div[@class="TRS_Editor"]//text()'   # 官方网页专用编辑器内容区
